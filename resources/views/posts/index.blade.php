@@ -14,8 +14,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div>
-                    <h3 class="text-center my-4">Njajal Laravel</h3>
-                    <h5 class="text-center"><a href="#">Anjay Mabar</a></h5>         
+                    <h3 class="text-center my-4">Mencoba Laravel</h3>
+                    <h5 class="text-center"><a href="https://github.com/indogegewepe/pwdLaravel">Github</a></h5>         
                     <hr>
                 </div>
                 <div class="card border-0 shadow-sm rounded">
